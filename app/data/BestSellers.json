@@ -1,0 +1,80 @@
+{
+    "BestSellers": [
+      {
+        "id": 1,
+        "name": "BMW M5 Competition (F90)",
+        "image": 
+          "/assets/BMW/BMW-m5.jpeg", 
+        "engine": "4.4-liter twin-turbocharged V8",
+        "Horsepower": "617 ",
+        "Torque": "553",
+        "price": "111,895"
+      },
+      {
+        "id": 2,
+        "name": "Porsche 911 Turbo S",
+        "image":
+          "/assets/Porsche/911-gold.jpg",
+        "engine": "3.8L Twin-Turbo Flat-6",
+        "Horsepower": "590 ",
+        "Torque": "641",
+        "price": "250,000"
+      },
+      {
+        "id": 3,
+        "name": "Corvette Z06",
+        "image": 
+          "/assets/Chevrolet/Corvette.jpeg",
+        "engine": "5.5L Naturally Aspirated V8",
+        "Horsepower": "670",
+        "Torque": "460",
+        "price": "134,345"
+      },
+      
+      {
+        "id": 4,
+        "name": "Ferrari 488 GTB",
+        "image": 
+          "/assets/Ferrari/ferrari-488-red.jpeg",
+        "engine": "3.9L Twin-Turbo V8",
+        "Horsepower": "661",
+        "Torque": "560 ",
+        "price": "262,647"
+      },
+
+      {
+        "id": 5,
+        "name": "Lamborghini Huracán EVO",
+        "image": 
+          "/assets/Lambo/Lamborghini.jpeg",
+        "engine": "5.2L V10",
+        "Horsepower": "602",
+        "Torque": "413",
+        "price": "261,274"
+      },
+      {
+        "id": 6,
+        "name": "McLaren 720S",
+        "image":
+          "/assets/McLaren/McLaren-720s-orange.jpeg",
+        "engine": "4.0L Twin-Turbo V8",
+        "Horsepower": "710",
+        "Torque": "568",
+        "price": "310,500"
+      },
+
+      {
+        "id": 7,
+        "name": "Audi RS Q8",
+        "image": "/assets/Audi/RSQ8-red.jpeg",
+        "engine": "4.0L Twin-Turbo V8",
+        "Horsepower": "591",
+        "Torque": "590",
+        "price": "125,800"
+      }
+      
+   
+    ]
+}
+  
+ 

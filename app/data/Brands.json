@@ -1,0 +1,51 @@
+{
+    "Brands": [
+        {
+            "id": 1,
+            "name": "Audi",
+            "country": "Germany",
+            "image": "assets/Logo/Audi-logo.jpeg"       
+        },
+        {
+            "id": 2,
+            "name": "BMW",
+            "country": "Germany",
+            "image": "assets/Logo/bmw-logo.jpeg"    
+          },
+
+        {
+            "id": 3,
+            "name": "Chevrolet",
+            "country": "United States",
+            "image": "assets/Logo/chevvy-logo.jpeg"
+        },
+
+        {
+            "id": 4,
+            "name": "Ferrari",
+            "country": "Italy",
+            "image": "assets/Logo/ferrari-logo.jpeg"
+        },
+
+        {
+            "id": 5,
+            "name": "Lamborghini",
+            "country": "Italy",
+            "image": "assets/Logo/Lamborghini.jpeg"
+        },
+
+        {
+            "id":6,
+            "name": "McLaren",
+            "country": "United Kingdom",
+            "image": "assets/Logo/Mclaren-logo.jpeg"
+        },
+
+        {
+            "id": 7,
+            "name": "Porsche",
+            "country": "Germany",
+            "image": "assets/Logo/porsche-logo.jpeg"
+        }
+    ]
+}

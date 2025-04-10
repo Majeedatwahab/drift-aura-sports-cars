@@ -1,0 +1,67 @@
+{
+  "Reviews": [
+    {
+      "id": 1,
+      "name": "Alex Raymond",
+      "carPurchased": "Porsche 911 Turbo S",
+      "rating": 5,
+     
+      "review": "An absolute beast on the road! The buying process was smooth and everything was just perfect.",
+      "date": "2025-03-21"
+    },
+    {
+      "id": 2,
+      "name": "Fatima Bello",
+      "carPurchased": "Ferrari 488 GTB",
+      "rating": 4,
+    
+      "review": "Stunning design and performance. Delivery was a bit delayed, but totally worth the wait.",
+      "date": "2025-02-17"
+    },
+    {
+      "id": 3,
+      "name": "Chris O'Neill",
+      "carPurchased": "BMW M8 Competition",
+      "rating": 5,
+      
+      "review": "Feels like driving a dream. Everything was clearly laid out and the customer service was top-tier.",
+      "date": "2025-01-05"
+    },
+    {
+      "id": 4,
+      "name": "Lola Adeniran",
+      "carPurchased": "McLaren 720S",
+      "rating": 4,
+  
+      "review": "This car turns heads everywhere I go. Would have loved more payment options though.",
+      "date": "2025-03-08"
+    },
+    {
+      "id": 5,
+      "name": "David Zhou",
+      "carPurchased": "Lamborghini Aventador",
+      "rating": 5,
+   
+      "review": "The sound of that engine gives me goosebumps. The site made everything seamless and exciting.",
+      "date": "2025-04-02"
+    },
+    {
+      "id": 6,
+      "name": "Jasmine Taylor",
+      "carPurchased": "Audi R8 V10 Performance",
+      "rating": 5,
+   
+      "review": "This car is a dream! Sleek, powerful, and surprisingly comfortable. Highly recommend DriftAura!",
+      "date": "2025-03-28"
+    },
+    {
+      "id": 7,
+      "name": "Marcus Reid",
+      "carPurchased": "Chevrolet Corvette Z06",
+      "rating": 4,
+      
+      "review": "Great car for the price. Customer support was helpful, and I got exactly what I was looking for.",
+      "date": "2025-02-04"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "Collection": [
+    {
+      "id": 1,
+      "name": "Audi RS5 Coupe",
+      "image": [
+        "/assets/Audi/RS5-black.jpeg",
+        "/assets/Audi/RS5-grey.jpeg",
+        "/assets/Audi/RS5-white.jpeg"
+      ],
+      "engine": "2.9L Twin-Turbo V6",
+      "horsepower": "444",
+      "torque": "443 lb-ft",
+      "price": "Starting at $76,995",
+      "brand": "Audi"
+    },
+    {
+      "id": 2,
+      "name": "Audi RS Q8",
+      "image": [
+        "/assets/Audi/RSQ8-black.jpeg",
+        "/assets/Audi/RSQ8-grey.jpeg",
+        "/assets/Audi/RSQ8-red.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "591",
+      "torque": "590 lb-ft",
+      "price": "Starting at $125,800",
+      "brand": "Audi"
+    },
+    {
+      "id": 3,
+      "name": "Audi RS7 Sportback",
+      "image": [
+        "/assets/Audi/audi-rs7-black.jpg",
+        "/assets/Audi/audi-rs7-dark.jpeg",
+        "/assets/Audi/audi-rs7-white.jpg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "621",
+      "torque": "627 lb-ft",
+      "price": "Starting at $129,990",
+      "brand": "Audi"
+    },
+    {
+      "id": 4,
+      "name": "Audi R8 V10 Performance",
+      "image": [
+        "/assets/Audi/R8.jpeg",
+        "/assets/Audi/R8-white.jpeg",
+        "/assets/Audi/R8-gray.jpeg"
+      ],
+      "engine": "5.2L Naturally Aspirated V10",
+      "horsepower": "602",
+      "torque": "413 lb-ft",
+      "price": "Starting at $158,600",
+      "brand": "Audi"
+    },
+    {
+      "id": 5,
+      "name": "Audi SQ7",
+      "image": [
+        "/assets/Audi/Audi-SQ7-blue.jpeg",
+        "/assets/Audi/Audi-SQ7-green.jpeg",
+        "/assets/Audi/Audi-SQ7-red.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "500",
+      "torque": "568 lb-ft",
+      "price": "Starting at $92,190",
+      "brand": "Audi"
+    },
+
+
+    {
+      "id": 6,
+      "name": "BMW M3 Competition",
+      "image": [
+        "/assets/BMW/BMW-M3-white.jpeg",
+        "/assets/BMW/M3.jpeg",
+        "/assets/BMW/BMW-M3-baby blue.jpeg"
+      ],
+      "engine": "3.0L Twin-Turbo Inline-6",
+      "horsepower": "503",
+      "torque": "479 lb-ft",
+      "price": "Starting at $76,000",
+      "brand": "BMW"
+    },
+    {
+      "id": 7,
+      "name": "BMW M5 Competition",
+      "image": [
+        "/assets/BMW/BMW-M5-blue.jpeg",
+        "/assets/BMW/BMW-M5-RED.jpeg",
+        "/assets/BMW/BMW-m5.jpeg"
+      ],
+    "engine": "4.4L Twin-Turbo V8",
+      "horsepower": "617",
+      "torque": "553 lb-ft",
+      "price": "Starting at $117,500",
+      "brand": "BMW"
+    },
+    {
+      "id": 8,
+      "name": "BMW X5 M Competition",
+      "image": [
+        "/assets/BMW/BMW-X5M-white.jpeg",
+        "/assets/BMW/BMW-X5M-darkgray.jpeg",
+        "/assets/BMW/BMW-X5M-green.jpeg"
+      ],
+      "engine": "4.4L Twin-Turbo V8",
+      "horsepower": "617",
+      "torque": "553 lb-ft",
+      "price": "Starting at $123,000",
+      "brand": "BMW"
+    },
+    {
+      "id": 9,
+      "name": "BMW X7 M60i",
+      "image": [
+        "/assets/BMW/BMW-X7-M60i-black.jpeg",
+        "/assets/BMW/BMW-X7-M60i-grey.jpeg",
+        "/assets/BMW/BMW-X7-M60i-white.jpeg"
+      ],
+      "engine": "4.4L Twin-Turbo V8 with Mild-Hybrid",
+      "horsepower": "523",
+      "torque": "553 lb-ft",
+      "price": "Starting at $108,700",
+      "brand": "BMW"
+    },
+    {
+      "id": 10,
+      "name": "BMW 840i Gran Coupe",
+      "image": [
+        "/assets/BMW/BMW-840i-blue.jpeg",
+        "/assets/BMW/BMW-840i-darkblue.jpeg",
+        "/assets/BMW/BMW-840i-white.jpeg"
+      ],
+      "engine": "3.0L TwinPower Turbo Inline-6",
+      "horsepower": "335",
+      "torque": "368 lb-ft",
+      "price": "Starting at $91,000",
+      "brand": "BMW"
+    },
+
+    {
+      "id": 11,
+      "name": "Chevrolet Camaro ZL1",
+      "image": [
+        "/assets/Chevrolet/camaro-blue.jpeg",
+        "/assets/Chevrolet/camaro-yellow.jpeg",
+        "/assets/Chevrolet/camaro-white.jpeg"
+      ],
+      "engine": "6.2L Supercharged V8",
+      "horsepower": "650",
+      "torque": "650 lb-ft",
+      "price": "Starting at $72,100",
+      "brand": "Chevrolet"
+    },
+    {
+      "id": 12,
+      "name": "Chevrolet Corvette Z06",
+      "image": [
+        "/assets/Chevrolet/Chevrolet Corvette Z06.jpeg",
+        "/assets/Chevrolet/Corvette.jpeg",
+        "/assets/Chevrolet/Chevrolet.jpeg"
+      ],
+      "engine": "5.5L Naturally Aspirated V8",
+      "horsepower": "670",
+      "torque": "460 lb-ft",
+      "price": "Starting at $112,700",
+      "brand": "Chevrolet"
+    },
+    {
+      "id": 13,
+      "name": "Chevrolet Silverado 1500 High Country",
+      "image": [
+        "/assets/Chevrolet/Silverado-blue.jpeg",
+        "/assets/Chevrolet/Silverado-black.jpeg",
+        "/assets/Chevrolet/Silverado-white.jpeg"
+      ],
+  "engine": "6.2L V8",
+  "horsepower": "420",
+      "torque": "460 lb-ft",
+      "price": "Starting at $63,000",
+      "brand": "Chevrolet"
+    },
+    {
+      "id": 14,
+      "name": "Chevrolet Tahoe High Country",
+      "image": [
+        "/assets/Chevrolet/Tahoe-black.jpeg",
+        "/assets/Chevrolet/Tahoe-red.jpeg",
+        "/assets/Chevrolet/Tahoe-white.jpeg"
+      ],
+      "engine": "6.2L V8",
+      "horsepower": "420",
+      "torque": "460 lb-ft",
+      "price": "Starting at $75,000",
+      "brand": "Chevrolet"
+    },
+    {
+      "id": 15,
+      "name": "Chevrolet Suburban High Country",
+      "image": [
+        "/assets/Chevrolet/suburban-white.jpeg",
+        "/assets/Chevrolet/suburban-black.jpeg",
+        "/assets/Chevrolet/suburban-purple.jpeg"
+      ],
+      "engine": "6.2L V8",
+      "horsepower": "420",
+      "torque": "460 lb-ft",
+      "price": "Starting at $79,400",
+      "brand": "Chevrolet"
+    },
+
+    {
+      "id": 16,
+      "name": "Ferrari 488 GTB",
+      "image": [
+        "/assets/Ferrari/ferrari-488-red.jpeg",
+        "/assets/Ferrari/ferrari-488-black.jpeg",
+        "/assets/Ferrari/ferrari-488-white.jpeg"
+      ],
+      "engine": "3.9L Twin-Turbo V8",
+      "horsepower": "661",
+      "torque": "561 lb-ft",
+      "price": "Starting at $262,000",
+      "brand": "Ferrari"
+    },
+    {
+      "id": 17,
+      "name": "Ferrari 812 Superfast",
+      "image": [
+        "/assets/Ferrari/812-red.jpeg",
+        "/assets/Ferrari/812-grey.jpg",
+        "/assets/Ferrari/812-black.jpeg"
+      ],
+      "engine": "6.5L Naturally Aspirated V12",
+      "horsepower": "789",
+      "torque": "530 lb-ft",
+      "price": "Starting at $404,494",
+      "brand": "Ferrari"
+    },
+    {
+      "id": 18,
+      "name": "Ferrari SF90 Stradale",
+      "image": [
+        "/assets/Ferrari/SF90-red.jpeg",
+        "/assets/Ferrari/SF90-blue.jpeg",
+        "/assets/Ferrari/SF90-ash.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8 Plug-in Hybrid",
+      "horsepower": "986",
+      "torque": "590 lb-ft",
+      "price": "Starting at $524,814",
+      "brand": "Ferrari"
+    },
+    {
+      "id": 19,
+      "name": "Ferrari F8 Tributo",
+      "image": [
+        "/assets/Ferrari/F8-Tributo-red.jpeg",
+        "/assets/Ferrari/Tributo-blue.jpeg",
+        "/assets/Ferrari/F8-white.jpeg"
+      ],
+      "engine": "3.9L Twin-Turbo V8",
+      "horsepower": "710",
+      "torque": "568 lb-ft",
+      "price": "Starting at $283,950",
+      "brand": "Ferrari"
+    },
+    {
+      "id": 20,
+      "name": "Ferrari Portofino M",
+      "image": [
+        "/assets/Ferrari/Portofino-red.jpeg",
+        "/assets/Ferrari/Portofino-gray.jpeg",
+        "/assets/Ferrari/Portofino-white.jpeg"
+      ],
+      "engine": "3.9L Twin-Turbo V8",
+      "horsepower": "612",
+      "torque": "561 lb-ft",
+      "price": "Starting at $230,950",
+      "brand": "Ferrari"
+    },
+    {
+      "id": 21,
+      "name": "Lamborghini Revuelto",
+      "image": [
+        "/assets/Lambo/Revuelto-black.jpeg",
+        "/assets/Lambo/Revuelto-yellow.jpeg",
+        "/assets/Lambo/Revuelto-white.jpeg"
+      ],
+      "engine": "6.5L V12 Plug-in Hybrid",
+      "horsepower": "1001",
+      "torque": "793 lb-ft",
+      "price": "Starting at $608,358",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 22,
+      "name": "Lamborghini Aventador LP 780-4 Ultimae",
+      "image": [
+        "/assets/Lambo/Aventador-gray.jpeg",
+        "/assets/Lambo/Aventador-green.jpeg",
+        "/assets/Lambo/Aventador-white.jpeg"
+      ],
+      "engine": "6.5L Naturally Aspirated V12",
+      "horsepower": "769",
+      "torque": "531 lb-ft",
+      "price": "Starting at $498,258",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 23,
+      "name": "Lamborghini Huracán Tecnica",
+      "image": [
+        "/assets/Lambo/Huracan-blue.jpeg",
+        "/assets/Lambo/Huracan-gray.jpeg",
+        "/assets/Lambo/Lamborghini.jpeg"
+      ],
+      "engine": "5.2L Naturally Aspirated V10",
+      "horsepower": "631",
+      "torque": "417 lb-ft",
+      "price": "Starting at $244,795",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 24,
+      "name": "Lamborghini Urus Performante",
+      "image": [
+        "/assets/Lambo/Urus-black.jpeg",
+        "/assets/Lambo/Urus-blue.jpeg",
+        "/assets/Lambo/Urus-white.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "657",
+      "torque": "627 lb-ft",
+      "price": "Starting at $260,676",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 25,
+      "name": "Lamborghini Sián FKP 37",
+      "image": [
+        "/assets/Lambo/sian-gray.jpeg",
+        "/assets/Lambo/sian-green.jpeg",
+        "/assets/Lambo/sian-yellow.jpeg"
+      ],
+      "engine": "6.5L V12 Hybrid",
+      "horsepower": "819",
+      "torque": "531 lb-ft",
+      "price": "Estimated at $3.6 million",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 26,
+      "name": "McLaren 570S",
+      "image": [
+        "/assets/McLaren/570S-gray.jpeg",
+        "/assets/McLaren/570S-purple.jpeg",
+        "/assets/McLaren/570S-white.jpeg"
+      ],
+      "engine": "3.8L Twin-Turbo V8",
+      "horsepower": "562",
+      "torque": "443 lb-ft",
+      "price": "Starting at $192,500",
+      "brand": "McLaren"
+    },
+    {
+      "id": 27,
+      "name": "McLaren P1",
+      "image": [
+        "/assets/McLaren/P1-black.jpeg",
+        "/assets/McLaren/P1-orange.jpeg",
+        "/assets/McLaren/P1-white.jpeg"
+      ],
+      "engine": "3.8L Twin-Turbo V8 Hybrid",
+      "horsepower": "903",
+      "torque": "664 lb-ft",
+      "price": "Starting at $1,150,000",
+      "brand": "McLaren"
+    },
+    {
+      "id": 28,
+      "name": "McLaren 720S",
+      "image": [
+        "/assets/McLaren/Mclaren-720s-orange.jpeg",
+        "/assets/McLaren/Mclaren-720s-purple.jpeg",
+        "/assets/McLaren/Mclaren-720s-white.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "710",
+      "torque": "568 lb-ft",
+      "price": "Starting at $301,500",
+      "brand": "McLaren"
+    },
+    {
+      "id": 29,
+      "name": "McLaren F1",
+      "image": [
+        "/assets/McLaren/F1-white.jpeg",
+        "/assets/McLaren/F1-open.jpeg",
+        "/assets/McLaren/F1-orange.jpeg"
+      ],
+      "engine": "6.1L Naturally Aspirated V12",
+      "horsepower": "618",
+      "torque": "479 lb-ft",
+      "price": "Valued over $20,000,000",
+      "brand": "McLaren"
+    },
+    {
+      "id": 30,
+      "name": "McLaren 600LT",
+      "image": [
+        "/assets/McLaren/600LT-green.jpeg",
+        "/assets/McLaren/600LT-blue.jpeg",
+        "/assets/McLaren/600LT-gray.jpeg"
+      ],
+      "engine": "3.8L Twin-Turbo V8",
+      "horsepower": "592",
+      "torque": "457 lb-ft",
+      "price": "Starting at $240,000",
+      "brand": "McLaren"
+    },
+    {
+      "id": 31,
+      "name": "Porsche 911 Turbo S",
+      "image": [
+        "/assets/Porsche/911-blue.jpeg",
+        "/assets/Porsche/911-gold.jpg",
+        "/assets/Porsche/911-silver.jpeg"
+      ],
+      "engine": "3.8L Twin-Turbocharged Flat-6",
+      "horsepower": "640",
+      "torque": "590 lb-ft",
+      "price": "Starting at $230,400",
+      "brand": "Porsche"
+    },
+    {
+      "id": 32,
+      "name": "Porsche Taycan Turbo S",
+      "image": [
+        "/assets/Porsche/Taycan-red.jpeg",
+        "/assets/Porsche/Taycan-blue.jpeg",
+        "/assets/Porsche/Taycan-white.jpeg"
+      ],
+      "engine": "Dual Electric Motors",
+      "horsepower": "750",
+      "torque": "774 lb-ft",
+      "price": "Starting at $216,500",
+      "brand": "Porsche"
+    },
+    {
+      "id": 33,
+      "name": "Porsche Panamera Turbo S E-Hybrid",
+      "image": [
+        "/assets/Porsche/Panamera-white.jpeg",
+        "/assets/Porsche/Panamera.jpeg",
+        "/assets/Porsche/Panamera-blue.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8 + Electric Motor",
+      "horsepower": "690",
+      "torque": "642 lb-ft",
+      "price": "Starting at $204,800",
+      "brand": "Porsche"
+    },
+    {
+      "id": 34,
+      "name": "Porsche Cayenne Turbo GT",
+      "image": [
+        "/assets/Porsche/Cayenne-black.jpeg",
+        "/assets/Porsche/Cayenne-blue.jpeg",
+        "/assets/Porsche/Cayenne-red.jpeg"
+      ],
+      "engine": "4.0L Twin-Turbo V8",
+      "horsepower": "650",
+      "torque": "626 lb-ft",
+      "price": "Starting at $197,950",
+      "brand": "Porsche"
+    },
+    {
+      "id": 35,
+      "name": "Porsche Macan GTS",
+      "image": [
+        "/assets/Porsche/Macan-black.jpeg",
+        "/assets/Porsche/Macan-blackk.jpeg",
+        "/assets/Porsche/Macan-white.jpeg"
+      ],
+      "engine": "2.9L Twin-Turbo V6",
+      "horsepower": "434",
+      "torque": "405 lb-ft",
+      "price": "Starting at $86,800",
+      "brand": "Porsche"
+    }
+  ]
+}
