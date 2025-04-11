@@ -2,16 +2,16 @@
   "Reviews": [
     {
       "id": 1,
-      "name": "Alex Raymond",
+      "name": "Ameen Rasheedah",
       "carPurchased": "Porsche 911 Turbo S",
       "rating": 5,
      
-      "review": "An absolute beast on the road! The buying process was smooth and everything was just perfect.",
+      "review": "The customer service was exceptional, and I felt valued as a customer. Highly recommend DriftAura!",
       "date": "2025-03-21"
     },
     {
       "id": 2,
-      "name": "Fatima Bello",
+      "name": "Adeolu Khadijah",
       "carPurchased": "Ferrari 488 GTB",
       "rating": 4,
     
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Chris O'Neill",
+      "name": "Fatima Bello",
       "carPurchased": "BMW M8 Competition",
       "rating": 5,
       
